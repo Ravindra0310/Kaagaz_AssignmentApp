@@ -10,8 +10,9 @@ TechStack used : Kotlin, Mvvm, Room Database, Dagger Hilt, CameraX , unit testin
     
 
 Apk File:
-[apk.zip](https://github.com/Ravindra0310/Kaagaz_app/files/9662110/apk.zip)
+https://github.com/Ravindra0310/Kaagaz_AssignmentApp/blob/master/app-debug.apk
 
 
 https://user-images.githubusercontent.com/41564881/193196062-48367582-cb3a-43bc-b1e3-74c7a171a041.mp4
+
 
